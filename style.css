@@ -1,0 +1,110 @@
+.ear1{
+    border:1px solid black;
+    height:150px;
+    width:60px;
+    background-color:pink;
+    left:125px;
+    border-radius:30px 30px 30px 30px;
+    position:absolute;
+    
+}
+.ear2{
+    border:1px solid black;
+    height:150px;
+    width:60px;
+    background-color:pink;
+    left:220px;
+    border-radius:30px 30px 30px 30px;
+    position: absolute;
+}
+.face{
+    border: 1px solid black;
+    height:200px;
+    width:200px;
+    background-color:pink;
+    border-radius:100%;
+    position:absolute;
+    left:103px;
+    top:17px;
+}
+.reye{
+    
+    height:40px;
+    width:40px;
+    background-color:whitesmoke;
+    border-radius:100%;
+    position: absolute;
+    left:35px;
+    top:37px;
+    
+}
+.reyee{
+    border: 1px solid black;
+    height:17px;
+    width:17px;
+    background-color:black;
+    border-radius:100%;
+    position: absolute;
+    left:45px;
+    top:49px;
+}
+.leye{
+    
+    height:40px;
+    width:40px;
+    background-color:whitesmoke;
+    border-radius:100%;
+    position: absolute;
+    left:123px;
+    top:37px;
+}
+.leyee{
+    border: 1px solid black;
+    height:17px;
+    width:17px;
+    background-color:black;
+    border-radius:100%;
+    position: absolute;
+    left:133px;
+    top:49px;
+}
+.mouth{
+    border:1px solid black;
+    height:45px;
+    width:90px;
+    background-color:red;
+    left:135px;
+    border-radius:40px 40px 40px 40px;
+    position: absolute;
+    left:53px;
+    top:110px;
+}
+.nose1{
+    border: 1px solid black;
+    height:20px;
+    width:20px;
+    background-color:black;
+    border-radius:100%;
+    position: absolute;
+    left:8px;
+    top:10px;
+}
+.nose2{
+    border: 1px solid black;
+    height:20px;
+    width:20px;
+    background-color:black;
+    border-radius:100%;
+    position: absolute;
+    left:60px;
+    top:10px;
+}
+
+.container{
+    position:relative;
+    height:200px;
+    width:200px;
+    margin-left:235px;
+    margin-top:80px;
+}
+
